@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 62ab96b08ec37ec43af16800c3854053
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1880970485923731543
+    second: Aspid Mother_0
+  - first:
+      213: 4518466184088114841
+    second: Aspid Mother_1
+  - first:
+      213: -5893016381204416342
+    second: Aspid Mother_2
+  - first:
+      213: -8664340160246874424
+    second: Aspid Mother_3
+  - first:
+      213: 6764418148337493739
+    second: Aspid Mother_8
+  - first:
+      213: 1173531403331508387
+    second: Aspid Mother_9
+  - first:
+      213: -4675210100054795943
+    second: Aspid Mother_10
+  - first:
+      213: -8328825279387745155
+    second: Aspid Mother_11
+  - first:
+      213: -6341226498665058171
+    second: Aspid Mother_12
+  - first:
+      213: -2275576902742650761
+    second: Aspid Mother_13
+  - first:
+      213: -5294834861732121193
+    second: Aspid Mother_14
+  - first:
+      213: 753142648849113071
+    second: Aspid Mother_15
+  - first:
+      213: -8013635600314803673
+    second: Aspid Mother_16
+  - first:
+      213: 591773879011269197
+    second: Aspid Mother_17
+  - first:
+      213: 6728073096145602073
+    second: Aspid Mother_18
+  - first:
+      213: 2685240602401433310
+    second: Aspid Mother_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aspid Mother_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1610
+        width: 158
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7585a7ee0bc8a1a10800000000000000
+      internalID: 1880970485923731543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1619
+        width: 159
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996df28fd01d4be30800000000000000
+      internalID: 4518466184088114841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1613
+        width: 145
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8b0c6e2dcc73ea0800000000000000
+      internalID: -5893016381204416342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1599
+        width: 161
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce7557a78412c780800000000000000
+      internalID: -8664340160246874424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1162
+        width: 165
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6acdb677a00ed50800000000000000
+      internalID: 6764418148337493739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1152
+        width: 157
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8175cf798394010800000000000000
+      internalID: 1173531403331508387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1147
+        width: 162
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9595aef2f215e1fb0800000000000000
+      internalID: -4675210100054795943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_11
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1161
+        width: 148
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ccc159811a6c80800000000000000
+      internalID: -8328825279387745155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 905
+        width: 167
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58076c2c8107ff7a0800000000000000
+      internalID: -6341226498665058171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 858
+        width: 162
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770d0fc0dd68b60e0800000000000000
+      internalID: -2275576902742650761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 854
+        width: 176
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7953a1a1fb7f486b0800000000000000
+      internalID: -5294834861732121193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 853
+        width: 141
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef19d1bf33b37a00800000000000000
+      internalID: 753142648849113071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 473
+        width: 169
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72adfcb21e8d9c090800000000000000
+      internalID: -8013635600314803673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 459
+        width: 192
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a52d52537663800800000000000000
+      internalID: 591773879011269197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_18
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 450
+        width: 183
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9160f9685daee5d50800000000000000
+      internalID: 6728073096145602073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 183
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e792d914e34520800000000000000
+      internalID: 2685240602401433310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,829 @@
+fileFormatVersion: 2
+guid: a68b503353da0b84b9fa7339329f0cec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -880289728079230415
+    second: Husk Hornhead_0
+  - first:
+      213: -1755642549554506002
+    second: Husk Hornhead_1
+  - first:
+      213: -3132260423298461982
+    second: Husk Hornhead_2
+  - first:
+      213: 220646326419037684
+    second: Husk Hornhead_3
+  - first:
+      213: -6415032743467853360
+    second: Husk Hornhead_4
+  - first:
+      213: 3250555054539199050
+    second: Husk Hornhead_5
+  - first:
+      213: -7380355480599445586
+    second: Husk Hornhead_7
+  - first:
+      213: -4903366467021849979
+    second: Husk Hornhead_8
+  - first:
+      213: -7466252752407752634
+    second: Husk Hornhead_9
+  - first:
+      213: -2498681634597472996
+    second: Husk Hornhead_10
+  - first:
+      213: 8667001898346304198
+    second: Husk Hornhead_11
+  - first:
+      213: -7205512055582028737
+    second: Husk Hornhead_12
+  - first:
+      213: -2056532520015797320
+    second: Husk Hornhead_13
+  - first:
+      213: -1531474454462533406
+    second: Husk Hornhead_21
+  - first:
+      213: 6427198621064729095
+    second: Husk Hornhead_22
+  - first:
+      213: -6947819655576785719
+    second: Husk Hornhead_23
+  - first:
+      213: -3114843780263785367
+    second: Husk Hornhead_24
+  - first:
+      213: 4699957272396761163
+    second: Husk Hornhead_25
+  - first:
+      213: 3139669129675418778
+    second: Husk Hornhead_35
+  - first:
+      213: 3129318551258209293
+    second: Husk Hornhead_36
+  - first:
+      213: -2814506809881958677
+    second: Husk Hornhead_37
+  - first:
+      213: -1788056108000153402
+    second: Husk Hornhead_38
+  - first:
+      213: 4915845792144343987
+    second: Husk Hornhead_49
+  - first:
+      213: -300882277706413414
+    second: Husk Hornhead_50
+  - first:
+      213: -751244867270139397
+    second: Husk Hornhead_51
+  - first:
+      213: 3214276465654151867
+    second: Husk Hornhead_52
+  - first:
+      213: -6774643674153995378
+    second: Husk Hornhead_53
+  - first:
+      213: -8150191258861771141
+    second: Husk Hornhead_56
+  - first:
+      213: 7288277115816942324
+    second: Husk Hornhead_57
+  - first:
+      213: -8062396203668226409
+    second: Husk Hornhead_58
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Husk Hornhead_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1398
+        width: 114
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a8962082598c3f0800000000000000
+      internalID: -880289728079230415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1398
+        width: 114
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee61e392764b2a7e0800000000000000
+      internalID: -1755642549554506002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1397
+        width: 111
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eec74d8db9f784d0800000000000000
+      internalID: -3132260423298461982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1397
+        width: 114
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd93333aa4ef0300800000000000000
+      internalID: 220646326419037684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1397
+        width: 115
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9591745b939f6a0800000000000000
+      internalID: -6415032743467853360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1398
+        width: 113
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d8a4999a4c1d20800000000000000
+      internalID: 3250555054539199050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1191
+        width: 131
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf33ce0bc5b39990800000000000000
+      internalID: -7380355480599445586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1191
+        width: 135
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab9996d2eb3fbb0800000000000000
+      internalID: -4903366467021849979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1191
+        width: 136
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6401479fdaa826890800000000000000
+      internalID: -7466252752407752634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1191
+        width: 131
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15760bba46e25dd0800000000000000
+      internalID: -2498681634597472996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1191
+        width: 127
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2519a8e40674870800000000000000
+      internalID: 8667001898346304198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_12
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1193
+        width: 124
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c0d3e36f0e00c90800000000000000
+      internalID: -7205512055582028737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_13
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1191
+        width: 129
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b36b6ba19ab573e0800000000000000
+      internalID: -2056532520015797320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 761
+        width: 104
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0fc27091c1fbae0800000000000000
+      internalID: -1531474454462533406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 761
+        width: 117
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7029175d71ff13950800000000000000
+      internalID: 6427198621064729095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 761
+        width: 145
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc6ed995d2649f90800000000000000
+      internalID: -6947819655576785719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 761
+        width: 157
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cca82c51ad5c4d0800000000000000
+      internalID: -3114843780263785367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 761
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4809b0ec3a993140800000000000000
+      internalID: 4699957272396761163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 623
+        width: 179
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c20925078529b20800000000000000
+      internalID: 3139669129675418778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 625
+        width: 169
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c19cc74a29d6b20800000000000000
+      internalID: 3129318551258209293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_37
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 623
+        width: 179
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be66113e7fcd0f8d0800000000000000
+      internalID: -2814506809881958677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_38
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 623
+        width: 171
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0fe2c717c8f27e0800000000000000
+      internalID: -1788056108000153402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 135
+        width: 175
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3cc53e3b7983440800000000000000
+      internalID: 4915845792144343987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 135
+        width: 170
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a491e992d03dbf0800000000000000
+      internalID: -300882277706413414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 135
+        width: 172
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1270306ca0395f0800000000000000
+      internalID: -751244867270139397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_52
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 135
+        width: 178
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbab6316a676b9c20800000000000000
+      internalID: 3214276465654151867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_53
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 135
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833432d871abf1a0800000000000000
+      internalID: -6774643674153995378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 174
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76ec0c4b34b4ee80800000000000000
+      internalID: -8150191258861771141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4
+        width: 173
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa90e00c69252560800000000000000
+      internalID: 7288277115816942324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Hornhead_58
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4
+        width: 173
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eb5e18e5d9c1090800000000000000
+      internalID: -8062396203668226409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
