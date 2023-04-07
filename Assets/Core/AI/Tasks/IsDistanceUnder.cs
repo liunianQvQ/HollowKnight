@@ -14,5 +14,6 @@ namespace Core.AI
             dis = (transform.position - player.transform.position).magnitude;
             return dis <= partrolDis ? TaskStatus.Success : TaskStatus.Failure;
         }
+
     }
 }

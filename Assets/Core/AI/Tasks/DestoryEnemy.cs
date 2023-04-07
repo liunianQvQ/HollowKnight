@@ -11,10 +11,13 @@ namespace Core.AI
     {
         private bool isDestoryed;
         public GameObject hazardCollider;
+        public bool isLong_Distance = true;
         public override void OnStart()
         {
             animator.SetTrigger("isDead");
             hazardCollider.SetActive(false);
+            if(isLong_Distance)
+            body.bodyType = RigidbodyType2D.Dynamic;
         }
 
         public override TaskStatus OnUpdate()

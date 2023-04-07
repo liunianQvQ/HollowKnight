@@ -115,7 +115,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!95 &339477801603359866
 Animator:
-  serializedVersion: 3
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -128,10 +128,11 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!1 &339477801762431005
 GameObject:
   m_ObjectHideFlags: 0
@@ -289,7 +290,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 339477802832129857}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.125, y: -3.33, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 339477801603359844}
@@ -365,13 +366,6 @@ MonoBehaviour:
   jumpForce: 700
   airDrag: 1
   bottomTransform: {fileID: 339477803513620803}
-  footstepSounds:
-  - {fileID: 8300000, guid: 42a0132c01790ee40b678c8118c20f15, type: 3}
-  - {fileID: 8300000, guid: 85bd45885a74f274dbbf655c14cbc956, type: 3}
-  - {fileID: 8300000, guid: 8d28a070d37ba6e42b66284a51b7991e, type: 3}
-  - {fileID: 8300000, guid: f023dc029ef2adf47b17ee7b1ff498ed, type: 3}
-  footstepAudioSource: {fileID: 339477801762431004}
-  landingSound: {fileID: 0}
   hurtFlashObject: {fileID: 2629158396685185510, guid: cab2435f4b771dc49a119b9d2aa2b6ce, type: 3}
   runningDustParticles: {fileID: 0}
   landingSmokeParticles: {fileID: 5470570633696875145, guid: bdb859e9353f86049bf322f669156bb8, type: 3}
@@ -398,8 +392,6 @@ MonoBehaviour:
   attackRecoil: 200
   pogoRecoilMultiplier: 2.4
   thrustParticles: {fileID: 0}
-  axeSwingSounds:
-  - {fileID: 8300000, guid: 4e3e654343896d147a06476c6e85c27e, type: 3}
   attackLayerMask:
     serializedVersion: 2
     m_Bits: 1153

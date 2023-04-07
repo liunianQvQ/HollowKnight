@@ -1,6 +1,7 @@
 ﻿using BehaviorDesigner.Runtime.Tasks;
 using System.Collections;
 using UnityEngine;
+using DG.Tweening;
 
 namespace Core.AI
 {
@@ -31,11 +32,6 @@ namespace Core.AI
                 a = a - 1;
             }
             transform.Translate(new Vector2(Speed * Dire * Time.deltaTime,0));
-        }
-
-        void AttackStatus()
-        {
-            
         }
 
     }

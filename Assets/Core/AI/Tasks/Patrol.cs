@@ -17,6 +17,8 @@ namespace Core.AI
         
         public float buildupTime;
         public float PatrolTime;
+        //是否远程怪
+        public bool isLong_Distance = true;
 
         private bool hasLanded;
         private int OffsetX;
@@ -48,8 +50,16 @@ namespace Core.AI
             jumpTween = DOVirtual.DelayedCall(PatrolTime, () =>
             {
                 //transform.Translate(new Vector2(5f * Time.deltaTime, 0));
-                body.velocity = new Vector2(OffsetX, 0);
-                animator.SetBool(animationTriggerName, true);
+                if(isLong_Distance)
+                {
+                    transform.DOMove(new Vector2(OffsetX, OffsetY), 5f, false);
+                    //body.velocity = new Vector2(OffsetX, OffsetY);
+                }
+                else
+                {
+                    body.velocity = new Vector2(OffsetX, 0);
+                }
+                animator.SetTrigger(animationTriggerName);
                 hasLanded = true;
             }, false);
         }
