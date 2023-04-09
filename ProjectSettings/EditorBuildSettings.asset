@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: c5ab09c2cdc28fc4db53330c6c636165
+  - enabled: 1
+    path: Assets/Scenes/Customs Pass.unity
+    guid: 9e276c11e58b36a429a7eae7e8c925bd
+  - enabled: 1
     path: Assets/Scenes/False Knight Boss Scene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
